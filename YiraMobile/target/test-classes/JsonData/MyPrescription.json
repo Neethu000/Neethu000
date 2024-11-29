@@ -1,0 +1,19 @@
+[
+	{
+		"TypesOfIllness" : "Headache",
+		"DoctorName" : "Priyanka",
+		"AddSelfNotes" : "everyday so much pain"
+	},
+	
+	{
+		"TypesOfIllness" : "Fever",
+		"DoctorName" : "Hari",
+		"AddSelfNotes" : "everyday fever"
+	},
+	
+	{
+		"TypesOfIllness" : "Hyper tension",
+		"DoctorName" : "sateesh",
+		"AddSelfNotes" : "everyday fever"
+	}
+]
